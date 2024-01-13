@@ -1,0 +1,33 @@
+.CSS {
+  color: rgb(0, 0, 0);
+  border: 2px;
+  font-style: italic;
+  background-color: goldenrod;
+  font-weight: bolder;
+  text-align: center;
+}
+.practice {
+  background-color: aquamarine;
+  font-size: medium;
+  font-weight: 600;
+  border: 2px;
+  text-align: center;
+}
+
+.new {
+  color: black;
+  text-align: center;
+  background-color: bisque;
+  
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .about{
+    text-align: center;
+    color: teal;
+    background-color: cadetblue;
+  }
